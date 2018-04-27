@@ -1,0 +1,13 @@
+header {
+    background-color: lightblue;
+    color: darkblue;
+    text-align: center;
+}
+footer {
+    background-color: lightblue;
+    color: darkblue;
+    text-align: right;
+}
+#lastline {
+    color: indianred;
+}
